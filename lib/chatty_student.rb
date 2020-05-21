@@ -1,4 +1,4 @@
-class ChattyStudent < S
+class ChattyStudent < Student
   
   
 end
