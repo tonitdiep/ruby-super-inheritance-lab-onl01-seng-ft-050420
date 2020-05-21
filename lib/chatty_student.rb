@@ -1,4 +1,4 @@
-class ChattyStudent
+class ChattyStudent < S
   
   
-end`
+end
